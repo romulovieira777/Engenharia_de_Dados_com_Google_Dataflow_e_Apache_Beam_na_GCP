@@ -3,5 +3,6 @@
 #### :boom: Temas abordados durante o curso foram :rocket:
 - Seção 01 - Introdução
 - Seção 02 - Conceitos do Apache Beam
+- [Seção 03 - Principais Funções do Apache Beam]() 
 
 Link para o curso: [Udemy](https://www.udemy.com/course/engenharia-de-dados-com-apache-beam-google-dataflow-gcp/)
